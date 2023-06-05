@@ -1,9 +1,3 @@
 adsada
 aaaaaaaaaaaaaaaaa
-<<<<<<< Updated upstream
 fsfsdfsdf
-dfsfdsfsdf
-fdafdsfsdf
-=======
-fsfsdfsdf
->>>>>>> Stashed changes
